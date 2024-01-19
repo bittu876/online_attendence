@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>forget password</title>
+  </head>
+  <body>
+ <h1 style="text-size:60px;align:center;margin-top:40%;">work is on process</h1>
+  </body>
+</html>
